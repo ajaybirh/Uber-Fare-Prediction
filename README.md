@@ -6,4 +6,5 @@ This project delves into the realm of machine learning to craft predictive linea
 From optimizing pricing strategies to enhancing rider experience, from efficient allocation of resources to anticipating demand surges, these insights have the potential to revolutionize how Uber serves its customers and operates its fleet.
 
 Data: https://www.kaggle.com/datasets/yasserh/uber-fares-dataset/data
+
 The data set of interest includes 9 predictor variables ranging from cooridnates of location of pick up, location of drop off, time of pickup, and passenger count. Data is from 4 different continents. This data was collected from 2009 to 2015 and is publicly available on kaggle.com. There are 200,000 total observations. There is some missing data.
